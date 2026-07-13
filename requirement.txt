@@ -1,0 +1,125 @@
+```text
+# =====================================================
+# Fashion AI Internship Project
+# SDXL + ControlNet + LoRA + FastAPI + ChromaDB
+# Python 3.10+
+# =====================================================
+
+# ----------------------------
+# Core Scientific Libraries
+# ----------------------------
+numpy>=1.26
+scipy>=1.11
+pandas>=2.2
+matplotlib>=3.9
+seaborn>=0.13
+scikit-learn>=1.5
+tqdm>=4.66
+
+# ----------------------------
+# Computer Vision
+# ----------------------------
+opencv-python>=4.10
+Pillow>=11.0
+imageio>=2.35
+
+# ----------------------------
+# PyTorch
+# ----------------------------
+torch>=2.5
+torchvision>=0.20
+torchaudio>=2.5
+
+# ----------------------------
+# Hugging Face Ecosystem
+# ----------------------------
+transformers>=4.45
+diffusers>=0.31
+accelerate>=1.0
+safetensors>=0.4
+huggingface-hub>=0.26
+tokenizers>=0.20
+
+# ----------------------------
+# SDXL / LoRA / PEFT
+# ----------------------------
+peft>=0.13
+xformers>=0.0.28
+
+# ----------------------------
+# ControlNet
+# ----------------------------
+controlnet-aux>=0.0.9
+
+# ----------------------------
+# CLIP Evaluation
+# ----------------------------
+open-clip-torch>=2.29
+ftfy>=6.2
+regex>=2024.9
+
+# ----------------------------
+# Image Quality Metrics
+# ----------------------------
+torchmetrics>=1.4
+lpips>=0.1.4
+
+# ----------------------------
+# ChromaDB Vector Database
+# ----------------------------
+chromadb>=0.5
+
+# ----------------------------
+# FastAPI Backend
+# ----------------------------
+fastapi>=0.115
+uvicorn[standard]>=0.32
+python-multipart>=0.0.12
+pydantic>=2.9
+
+# ----------------------------
+# Frontend
+# ----------------------------
+gradio>=5.5
+streamlit>=1.40
+
+# ----------------------------
+# Dataset Utilities
+# ----------------------------
+datasets>=3.0
+
+# ----------------------------
+# JSON / YAML
+# ----------------------------
+PyYAML>=6.0
+
+# ----------------------------
+# Logging & Utilities
+# ----------------------------
+rich>=13.9
+colorama>=0.4.6
+
+# ----------------------------
+# Notebook Support
+# ----------------------------
+jupyter
+notebook
+ipykernel
+
+# ----------------------------
+# Optional Experiment Tracking
+# ----------------------------
+wandb
+
+# ----------------------------
+# Optional Visualization
+# ----------------------------
+plotly
+
+# ----------------------------
+# Development
+# ----------------------------
+pytest
+black
+flake8
+```
