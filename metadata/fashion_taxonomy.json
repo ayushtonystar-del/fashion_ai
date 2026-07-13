@@ -1,0 +1,6 @@
+{
+  "tops":["shirt","tshirt","hoodie"],
+  "bottoms":["jeans","trousers"],
+  "ethnic":["kurta","saree"],
+  "formal":["blazer","suit"]
+}

@@ -1,0 +1,47 @@
+[
+    {
+        "id": "0",
+        "image": "shirt1.jpg",
+        "category": "shirt",
+        "color": "white",
+        "material": "linen",
+        "style": "casual",
+        "description": "white linen casual shirt"
+    },
+    {
+        "id": "1",
+        "image": "shirt2.jpg",
+        "category": "shirt",
+        "color": "black",
+        "material": "cotton",
+        "style": "streetwear",
+        "description": "black cotton streetwear shirt"
+    },
+    {
+        "id": "2",
+        "image": "dress1.jpg",
+        "category": "dress",
+        "color": "red",
+        "material": "silk",
+        "style": "luxury",
+        "description": "red silk luxury dress"
+    },
+    {
+        "id": "3",
+        "image": "jacket1.jpg",
+        "category": "jacket",
+        "color": "blue",
+        "material": "denim",
+        "style": "casual",
+        "description": "blue denim casual jacket"
+    },
+    {
+        "id": "4",
+        "image": "kurta1.jpg",
+        "category": "kurta",
+        "color": "white",
+        "material": "cotton",
+        "style": "ethnic",
+        "description": "white cotton ethnic kurta"
+    }
+]
